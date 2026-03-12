@@ -1,0 +1,7 @@
+{
+  "theme": "Teal Dark",
+  "low_stock_threshold": 5,
+  "font_size": 10,
+  "confirm_deletes": true,
+  "startup_warning": true
+}
